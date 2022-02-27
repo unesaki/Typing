@@ -1,0 +1,25 @@
+
+.wrap{
+     text-align:center;
+     width: 700px;
+     height: 500px;
+     margin: auto;
+     margin-top: 50px;
+}
+
+div#image {
+    width: 700px;
+    height: 500px;
+    background-image: url(https://github.com/unesaki/Typing/blob/main/back_image.png?raw=true);
+     background-repeat: no-repeat;
+}
+
+input {
+    margin-top: 100px;
+}
+
+body {
+    width: 100%;
+    background-image: url(https://github.com/unesaki/Typing/blob/main/wasi.jpg?raw=true)
+
+}
